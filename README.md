@@ -27,13 +27,13 @@
 
 1. [Exploratory Data Analysis](code_notebooks/1.Exploratory_Data_Analysis.ipynb)
 
-2. [Setting up TabPy Server / Client](code_notebooks/2.Installing and Configuring TabPy Server and Client.pdf)
+2. [Setting up TabPy Server / Client](https://github.com/ajaykliyara/Crime_Scene_Rochester_NY/blob/master/code_notebooks/2.Installing%20and%20Configuring%20TabPy%20Server%20and%20Client.pdf)
 
 3. [Predicting Crime](code_notebooks/3.Predicting_Crime.ipynb)
 
 4. [Crime Hotspots](code_notebooks/4.Clustering_Crime.ipynb)
 
-5. [Interface for Predictive Model using Tableau](code_notebooks/5.Application using Tableau & TabPy.pdf)
+5. [Interface for Predictive Model using Tableau](https://github.com/ajaykliyara/Crime_Scene_Rochester_NY/blob/master/code_notebooks/5.Application%20using%20Tableau%20%26%20TabPy.pdf)
 
 
 <H3>Results</H3>
