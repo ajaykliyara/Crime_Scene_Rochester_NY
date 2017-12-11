@@ -5,10 +5,11 @@
 
 <H3>Problem Statement</H3>
 
-<b>How safe are you in Rochester, NY ? Drive decision using data as opposed to opinion.
-	Data > Opinion (always)
+<b>How safe are you in Rochester, NY ? Drive decision using data as opposed to opinion.</b>
 
-The objective was to allow a rochester resident / visitor to use historical data to help determine how safe they would be visiting part of the city at a specific time. </b>
+	<b>Data > Opinion (always)</b>
+
+<b> The objective was to allow a rochester resident / visitor to use historical data to help determine how safe they would be visiting part of the city at a specific time. </b>
 
 <H3>Project Objectives</H3>
 
