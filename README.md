@@ -33,8 +33,13 @@ Tableau (Leader in BI tools per Gartner) was integrated with the previously deri
 
 <H3> Potential Next Steps </H3>
 1. Build a website which can use this model thus allowing anyone to interact with the application
+
 2. Analysis can be supplemented with other data sets such as population at a location etc
+
 3. Expand the solution to other cities states
+
 4. Build more robust, complex models for better accuracy
+
 5. Deploy TabPy server to AWS
+
 6. Use distributed ML such as Spark ML to help deal with even larger volumes of data.
