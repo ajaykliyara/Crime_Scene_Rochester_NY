@@ -32,6 +32,7 @@ Tableau (Leader in BI tools per Gartner) was integrated with the previously deri
 <H3> Demo Videos </H3>
 
 <H3> Potential Next Steps </H3>
+
 1. Build a website which can use this model thus allowing anyone to interact with the application
 
 2. Analysis can be supplemented with other data sets such as population at a location etc
