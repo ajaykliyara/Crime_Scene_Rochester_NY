@@ -23,6 +23,18 @@
 
 5. Build an application on top the predictive model to present the user with a user interface to consume the data. Tabpy integration with Tableau was used for this purpose.
 
+<H3>Analysis</H3>
+
+1. [Exploratory Data Analysis](code_notebooks/1.Exploratory_Data_Analysis.ipynb)
+
+2. [Setting up TabPy Server / Client](code_notebooks/2.Installing and Configuring TabPy Server and Client.pdf)
+
+3. [Predicting Crime](code_notebooks/3.Predicting_Crime.ipynb)
+
+4. [Crime Hotspots](code_notebooks/4.Clustering_Crime.ipynb)
+
+5. [Interface for Predictive Model using Tableau](code_notebooks/5.Application using Tableau & TabPy.pdf)
+
 
 <H3>Results</H3>
 All the project objectives listed above were achieved. Exploratory Analysis helped understand the data Larceny was the most frequent crime type. More violent crimes like murder was at the lower end of the spectrum. It also helped determine key features that could help in predicting crime such as location, time of year and day.
