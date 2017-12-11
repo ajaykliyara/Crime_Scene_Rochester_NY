@@ -7,7 +7,7 @@
 
 <b>How safe are you in Rochester, NY ? Drive decision using data as opposed to opinion.</b>
 
-	<b>Data > Opinion (always)</b>
+	Data > Opinion (always)
 
 <b> The objective was to allow a rochester resident / visitor to use historical data to help determine how safe they would be visiting part of the city at a specific time. </b>
 
