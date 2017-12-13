@@ -42,7 +42,22 @@ KNN Classifier was able to achieve a relatively good accuracy of 87% after balan
 Hotspots for each crime type was determined using seaborn KDEPlot. These plots were supplemented with the location user plans to visit to give them a perspective and aid in the decision if they have to venture into that part of time at that time.
 Tableau (Leader in BI tools per Gartner) was integrated with the previously derived KNN Classifier using the TabPy Client / Server. Allowing for a better interface for the user to interact with the data.
 
+<H3> Directory Structure</H3>
+
+data : Rochester NY crime data 2011 to Oct, 2017
+
+code_notebooks : jupyter notebooks with code and results of analysis
+
+tableau : tableau workbooks
+
+trained_model : trained model - KNN Classifier.
+
+
 <H3> Demo Videos </H3>
+
+[2 min Video](https://youtu.be/rlIfBheTfV0)
+
+[5 min Video](https://youtu.be/iY7LF17KAMs)
 
 <H3> Potential Next Steps </H3>
 
