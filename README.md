@@ -45,6 +45,7 @@ Tableau (Leader in BI tools per Gartner) was integrated with the previously deri
 <H3> Directory Structure</H3>
 
 data : Rochester NY crime data 2011 to Oct, 2017
+Please unzip file in data folder before running any code
 
 code_notebooks : jupyter notebooks with code and results of analysis
 
